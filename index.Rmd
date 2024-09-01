@@ -1,0 +1,41 @@
+---
+title: "Wenqing(Cathy) Zhang"
+image: "CZhang.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/wenqingzhang/"
+  - label: Email
+    url: "mailto:wzhan115@jh.com"
+output:
+  postcards::trestles
+---
+ 
+## About
+
+Hi, I'm Cathy! My name sounds like "happy" (开心) in Mandarin, and 
+I like to think that it suits me. Originally from Xi'an, China, 
+I've had the opportunity to live in several different places, 
+including Singapore, Maine, and now Maryland, where I'm currently 
+pursuing my studies.
+
+My academic journey blends life sciences, social sciences, and quantitative analysis.
+I am passionate about research, particularly in clinical trials, survival analysis, 
+spatial statistics (with map making), and causal inference. 
+
+Outside of academics, I’m committed to being an environmentally 
+conscious global citizen, making choices that support 
+sustainability and the health of our planet.
+
+## Education
+
+**Johns Hopkins Bloomberg School of Public Health** | Baltimore, MD
+
+ScM in Biostatistics | August 2024 - May 2026
+
+**Johns Hopkins University** | Baltimore, MD
+
+B.S. in Public Health and Environmental Science | August 2020 - May 2024
+
+## Programming Experience
+
+R, Python, ArcGIS, SQL, SAS
