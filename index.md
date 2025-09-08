@@ -11,3 +11,7 @@ My current research focus on developing, benchmarking, and evaluating statistica
 Previously, I completed my undergraduate studies at Johns Hopkins University with a double major in Public Health and Environmental Science, and a minor in Applied Math and Statistics (May 2024).
 
 I’m always happy to collaborate! If you’re interested in working together, feel free to reach out to me at wzhan115[at]jhu.edu.
+
+{% include_relative _includes/publications.md %}
+
+{% include_relative _includes/services.md %}
