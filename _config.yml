@@ -1,28 +1,26 @@
 # Basic Information 
 title: Wenqing(Cathy) Zhang
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+position: ScM Student
+affiliation: Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health
+email: wzhan115@jhu.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Wenqing Zhang, Cathy Zhang, Johns Hopkins University, Biostatistics, Johns Hopkins Bloomberg School of Public Health
+description: Wenqing (Cathy) Zhang - ScM Student in Biostatistics at Johns Hopkins University.
+canonical: https://cathyzzzhang.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.com/citations?user=zh2IKMEAAAAJ&hl=en
+github_link: https://github.com/cathyzzzhang
+linkedin: www.linkedin.com/in/wenqingzhang
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+avatar: ./assets/img/profile.JPG
+favicon: ./assets/img/john-hopkins.png
+favicon_dark: ./assets/img/john-hopkins.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
@@ -38,7 +36,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
