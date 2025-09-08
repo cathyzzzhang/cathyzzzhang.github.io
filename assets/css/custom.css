@@ -1,4 +1,8 @@
-/* Custom CSS to override avatar styling */
-.avatar img {
-    border-radius: 8px !important; /* Rounded corners instead of circle */
+.image.avatar img,
+.avatar img,
+a.image.avatar img {
+    border-radius: 0 !important; /* Square shape */
+    width: 200px !important; /* Make it larger */
+    height: 200px !important; /* Make it larger */
+    object-fit: cover !important; /* Maintain aspect ratio */
 }
