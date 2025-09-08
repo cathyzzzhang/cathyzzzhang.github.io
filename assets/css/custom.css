@@ -1,0 +1,4 @@
+/* Custom CSS to override avatar styling */
+.avatar img {
+    border-radius: 8px !important; /* Rounded corners instead of circle */
+}
