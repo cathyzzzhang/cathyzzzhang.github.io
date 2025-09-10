@@ -1,13 +1,4 @@
 main:
-
-  - title: Retinal and Choriocapillaris Thickness Changes in Spontaneously Diabetic Macaques
-    authors: Lingli Zhou, Shuxin Fan, Haining Lu, <strong>Wenqing Zhang</strong>, Kaoru Ri, Zhenhua Xu, Xiangrong Kong, Amir H. Kashani, Xialin Liu, Charles Eberhart, Wei Yi, Elia J. Duh
-    conference_short: IOVS
-    conference: Investigative Ophthalmology & Visual Science February 2025, Vol.66, 11. <strong>(IOVS)</strong>, 2025.
-    pdf: https://iovs.arvojournals.org/article.aspx?articleid=2802552
-    image: ./assets/img/iovs.png
-    notes: Accepted
-
   - title: "Large Language Models for Full-Text Methods Quality Assessment:
     A Case Study on Mediation Analysis Research"
     authors: <strong>Wenqing Zhang</strong>, Trang Nguyen, Elizabeth A. Stuart, Yiqun T. Chen
@@ -17,3 +8,18 @@ main:
     code: https://github.com/yiqunchen/CausalJudge
     notes: Poster Presentation
     image: ./assets/img/mediation.png
+    notes: Poster, JAMIA submission in prep
+
+  - title: "Retinal and Choriocapillaris Thickness Changes in Spontaneously Diabetic Macaques"
+    authors: Lingli Zhou, Shuxin Fan, Haining Lu, <strong>Wenqing Zhang</strong>, Kaoru Ri, Zhenhua Xu, Xiangrong Kong, Amir H. Kashani, Xialin Liu, Charles Eberhart, Wei Yi, Elia J. Duh
+    conference_short: IOVS
+    conference: Investigative Ophthalmology & Visual Science February 2025, Vol.66, 11. <strong>(IOVS)</strong>, 2025.
+    pdf: https://iovs.arvojournals.org/article.aspx?articleid=2802552
+    image: ./assets/img/iovs.png
+    
+  - title: "R package jointCompRisk: Joint Inference for Competing Risks Data using Multiple Endpoints"
+    authors: <strong>Wenqing Zhang</strong>, based on the work of Jiyang Wen, Chen Hu, Mei-Cheng Wang.
+    conference_short: R Package
+    code: https://github.com/cathyzzzhang/jointCompRisk/tree/master
+    image: ./assets/img/jointCompRisk.png
+    notes: CRAN Pending, original work by Wen et al. published in Biometrics 2023
