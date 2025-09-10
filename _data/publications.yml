@@ -4,7 +4,7 @@ main:
     authors: <strong>Wenqing Zhang</strong>, Trang Nguyen, Elizabeth A. Stuart, Yiqun T. Chen
     conference_short: ISU-NISS
     conference: 2025 ISU-NISS Conference on AI and Statistics <strong>(ISU-NISS)</strong>, 2025.
-    poster pdf: https://drive.google.com/file/d/1gxmNfZgv8XmElDQ-QjLWgLOJ8ZPaalI5/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1gxmNfZgv8XmElDQ-QjLWgLOJ8ZPaalI5/view?usp=sharing
     code: https://github.com/yiqunchen/CausalJudge
     notes: Poster Presentation
     image: ./assets/img/mediation.png
