@@ -12,8 +12,8 @@
 
 <h4 style="margin:0 10px 0;">Teaching Assistantship</h4>
 <ul style="margin:0 0 15px;">
-  <li><autocolor>PH.140.622 Statistical Methods in Public Health II</autocolor>, Fall 2025</li>
-  <li><autocolor>PH.140.621 Statistical Methods in Public Health I</autocolor>, Fall 2025</li>
-  <li><autocolor>PH.140.641 Survival Analysis</autocolor>, Summer 2025</li>
-  <li><autocolor>AS.280.347 Health Data Analysis Practicum</autocolor>, Spring 2024</li>
+  <li><a href="https://publichealth.jhu.edu/course/42522"><autocolor>PH.140.622 Statistical Methods in Public Health II</autocolor>, Fall 2025</li>
+  <li><a href="https://publichealth.jhu.edu/course/42103"><autocolor>PH.140.621 Statistical Methods in Public Health I</autocolor>, Fall 2025</li>
+  <li><a href="https://publichealth.jhu.edu/course/41750"><autocolor>PH.140.606 Survival Analysis</autocolor>, Summer 2025</li>
+  <li><a href="https://e-catalogue.jhu.edu/course-descriptions/public_health_studies/"><autocolor>AS.280.347 Health Data Analysis Practicum</autocolor>, Spring 2024</li>
 </ul>
