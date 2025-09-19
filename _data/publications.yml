@@ -3,7 +3,7 @@ main:
     A Case Study on Mediation Analysis Research"
     authors: <strong>Wenqing Zhang</strong>, Trang Nguyen, Elizabeth A. Stuart, Yiqun T. Chen
     conference_short: ISU-NISS
-    conference: 2025 ISU-NISS Conference on AI and Statistics <strong>(ISU-NISS)</strong>, 2025.
+    conference: 2025 ISU-NISS Conference on AI and Statistics, 2025.
     pdf: https://drive.google.com/file/d/1WNO6HRU9rw2G0gDCPzlVptNVvtQ5haXL/preview
     code: https://github.com/yiqunchen/CausalJudge
     image: ./assets/img/mediation.png
@@ -19,6 +19,5 @@ main:
   - title: "R package jointCompRisk: Joint Inference for Competing Risks Data using Multiple Endpoints"
     authors: <strong>Wenqing Zhang</strong>, based on the work of Jiyang Wen, Chen Hu, Mei-Cheng Wang.
     conference_short: R Package
-    code: https://github.com/cathyzzzhang/jointCompRisk/tree/master
     image: ./assets/img/jointCompRisk.png
     notes: CRAN Pending, original work by Wen et al. published in Biometrics 2023
