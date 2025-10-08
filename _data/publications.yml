@@ -30,4 +30,3 @@ work_in_progress:
 
   - title: "Master Thesis: Prediction-Powered Augmentation for Survival Data with Split-Source Covariates"
     collaborators: "Chen Hu"
-    summary: "Extending prediction-powered inference to survival outcomes with partially missing covariates across data sources."
