@@ -1,27 +1,27 @@
 {% assign wip = site.data.publications.work_in_progress %}
 {% if wip and wip.size > 0 %}
-<h2 id="work-in-progress" style="margin: 2px 0px 10px;">Work in Progress</h2>
+<h2 id="work-in-progress" class="section-heading">Work in Progress</h2>
 
-<ul class="wip-list" style="list-style: none; padding-left: 0; margin: 0;">
+<div class="wip-list">
 {% for link in wip %}
-  <li style="margin-bottom: 18px;">
-    <div class="title" style="font-weight: 600;">
+  <div class="wip-card">
+    <div class="wip-title">
       {% if link.pdf %}
       <a href="{{ link.pdf }}">{{ link.title }}</a>
       {% else %}
       {{ link.title }}
       {% endif %}
     </div>
-    {% if link.authors %}
-    <div class="author" style="margin-top: 4px;">{{ link.authors }}</div>
+    {% if link.summary %}
+    <div class="wip-summary">{{ link.summary }}</div>
     {% endif %}
     {% if link.collaborators %}
-    <div class="collaborators" style="margin-top: 4px;"><em>with {{ link.collaborators }}</em></div>
+    <div class="wip-collaborators">with {{ link.collaborators }}</div>
     {% endif %}
     {% if link.notes %}
-    <div class="notes" style="margin-top: 4px;"><strong><i style="color:#e74d3c">{{ link.notes }}</i></strong></div>
+    <div class="wip-notes">{{ link.notes }}</div>
     {% endif %}
-  </li>
+  </div>
 {% endfor %}
-</ul>
+</div>
 {% endif %}

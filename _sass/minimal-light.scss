@@ -2,6 +2,64 @@
   display: flex; 
   align-items: center;}
 
+.section-heading {
+  margin: 2px 0 12px;
+  color: #043361;
+}
+
+.wip-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+}
+
+.wip-card {
+  border: 1px solid #d9e3f2;
+  border-left: 4px solid #043361;
+  background: #f7f9ff;
+  border-radius: 8px;
+  padding: 14px 18px;
+}
+
+.wip-title {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: #0f3660;
+}
+
+.wip-title a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(15, 54, 96, 0.25);
+}
+
+.wip-title a:hover,
+.wip-title a:focus {
+  color: #1b5fa7;
+  border-bottom-color: rgba(27, 95, 167, 0.4);
+}
+
+.wip-summary {
+  margin-top: 8px;
+  color: #3f4a5a;
+  line-height: 1.5;
+}
+
+.wip-collaborators {
+  margin-top: 6px;
+  font-style: italic;
+  color: #4d5a6a;
+}
+
+.wip-notes {
+  margin-top: 6px;
+  font-style: italic;
+  font-weight: 600;
+  color: #e74d3c;
+}
+
 .social-icons a{
   display:inline-block;
   height:2.4rem;
