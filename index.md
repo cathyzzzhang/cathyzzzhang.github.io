@@ -13,6 +13,6 @@ Previously, I completed my undergraduate studies at the [Johns Hopkins Universit
 I’m always happy to collaborate! If you’re interested in working together, feel free to reach out to me at wzhan115[at]jhu.edu.
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/work-in-progress.md %}
 {% include_relative _includes/services.md %}
-
 
