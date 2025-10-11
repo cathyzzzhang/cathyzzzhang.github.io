@@ -26,7 +26,4 @@ work_in_progress:
   - title: "PD-L1-Stratified Outcomes with Neoadjuvant Immunotherapy in Non-Small Cell Lung Cancer: Individual Patient Data Reconstruction and Meta-Analysis"
     collaborators: "Chad Sussman (UMD), Samuel Rosner (UMD), Chen Hu"
     summary: "Reconstructing patient-level survival data from published trials to assess PD-L1 stratified benefits of neoadjuvant immunotherapy."
-    notes: "Manuscript under development"
-
-  - title: "Master Thesis: Prediction-Powered Augmentation for Survival Data with Split-Source Covariates"
-    collaborators: "Chen Hu"
+    notes: "Manuscript under development (co-first)"
