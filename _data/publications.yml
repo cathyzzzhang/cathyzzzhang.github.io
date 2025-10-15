@@ -2,12 +2,11 @@ main:
   - title: "Large Language Models for Full-Text Methods Quality Assessment:
     A Case Study on Mediation Analysis Research"
     authors: <strong>Wenqing Zhang</strong>, Trang Nguyen, Elizabeth A. Stuart, Yiqun T. Chen
-    conference_short: ISU-NISS
-    conference: 2025 ISU-NISS Conference on AI and Statistics, 2025.
-    pdf: https://drive.google.com/file/d/1WNO6HRU9rw2G0gDCPzlVptNVvtQ5haXL/preview
+    conference_short: arxiv
+    pdf: https://arxiv.org/abs/2510.10762
     code: https://github.com/yiqunchen/CausalJudge
     image: ./assets/img/mediation.png
-    notes: Manuscript Submitted
+    notes: Manuscript Submitted, poster presented at ISU-NISS 2025,JHU DSAI 2025.
 
   - title: "Retinal and Choriocapillaris Thickness Changes in Spontaneously Diabetic Macaques"
     authors: Lingli Zhou, Shuxin Fan, Haining Lu, <strong>Wenqing Zhang</strong>, Kaoru Ri, Zhenhua Xu, Xiangrong Kong, Amir H. Kashani, Xialin Liu, Charles Eberhart, Wei Yi, Elia J. Duh
@@ -20,10 +19,11 @@ main:
     authors: <strong>Wenqing Zhang</strong>, based on the work of Jiyang Wen, Chen Hu, Mei-Cheng Wang.
     conference_short: R Package
     image: ./assets/img/jointCompRisk.png
-    notes: CRAN Pending, original work by Wen et al. published in Biometrics 2023
+    code: https://cran.r-project.org/web/packages/jointCompRisk/
+    notes: CRAN published , original work by Wen et al. published in Biometrics 2023
 
-work_in_progress:
-  - title: "PD-L1-Stratified Outcomes with Neoadjuvant Immunotherapy in Non-Small Cell Lung Cancer: Individual Patient Data Reconstruction and Meta-Analysis"
-    collaborators: "Chad Sussman (UMD), Samuel Rosner (UMD), Chen Hu"
-    summary: "Reconstructing patient-level survival data from published trials to assess PD-L1 stratified benefits of neoadjuvant immunotherapy."
-    notes: "Manuscript under development (co-first)"
+#work_in_progress:
+  - #title: "PD-L1-Stratified Outcomes with Neoadjuvant Immunotherapy in Non-Small Cell Lung Cancer: Individual Patient Data Reconstruction and Meta-Analysis"
+    #collaborators: "Chad Sussman (UMD), Samuel Rosner (UMD), Chen Hu"
+    #summary: "Reconstructing patient-level survival data from published trials to assess PD-L1 stratified benefits of neoadjuvant immunotherapy."
+    #notes: "Manuscript under development (co-first)"
