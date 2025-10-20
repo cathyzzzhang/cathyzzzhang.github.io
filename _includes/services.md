@@ -7,7 +7,7 @@
 
 <h4 style="margin:0 10px 0;">STATCOM Leadership Board</h4>
 <ul style="margin:0 0 15px;">
-  <li><autocolor>STATCOM (Statistics in the Community) Johns Hopkins Chapter</autocolor></li>
+  <li><a href = "https://jhustatcom.github.io/statcom.github.io/"><autocolor>STATCOM (Statistics in the Community) Johns Hopkins Chapter</autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching Assistantships</h4>
