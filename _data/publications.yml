@@ -23,7 +23,7 @@ main:
     image: ./assets/img/iovs.png
 
   - title: "Cost-Related Barriers to Medication Adherence in Uveitis Patients Enrolled in NIH's All of Us Program"
-    authors: Dave, Bhoomi; Ibanez Bruron, Maria Carolina; <strong>Zhang, Wenqing</strong>; Liberman, Paulina; Berkenstock, Meghan K. MD
+    authors: Dave, Bhoomi; Ibanez Bruron, Maria Carolina; <strong>Zhang, Wenqing</strong>; Liberman, Paulina; Berkenstock, Meghan K
     conference_short: QMHC
     conference: Quality Management in Health Care, March 12, 2025.
     pdf: https://journals.lww.com/qmhcjournal/abstract/9900/cost_related_barriers_to_medication_adherence_in.119.aspx
