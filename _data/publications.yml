@@ -8,19 +8,26 @@ main:
     image: ./assets/img/mediation.png
     notes: Manuscript Submitted, poster presented at ISU-NISS 2025,JHU DSAI 2025.
 
-  - title: "Retinal and Choriocapillaris Thickness Changes in Spontaneously Diabetic Macaques"
-    authors: Lingli Zhou, Shuxin Fan, Haining Lu, <strong>Wenqing Zhang</strong>, Kaoru Ri, Zhenhua Xu, Xiangrong Kong, Amir H. Kashani, Xialin Liu, Charles Eberhart, Wei Yi, Elia J. Duh
-    conference_short: IOVS
-    conference: Investigative Ophthalmology & Visual Science February 2025, Vol.66, 11. <strong>(IOVS)</strong>, 2025.
-    pdf: https://iovs.arvojournals.org/article.aspx?articleid=2802552
-    image: ./assets/img/iovs.png
-    
   - title: "R package jointCompRisk: Joint Inference for Competing Risks Data using Multiple Endpoints"
     authors: <strong>Wenqing Zhang</strong>, based on the work of Jiyang Wen, Chen Hu, Mei-Cheng Wang.
     conference_short: R Package
     image: ./assets/img/jointCompRisk.png
     code: https://cran.r-project.org/web/packages/jointCompRisk/
     notes: CRAN published , original work by Wen et al. published in Biometrics 2023
+
+  - title: "Retinal and Choriocapillaris Thickness Changes in Spontaneously Diabetic Macaques"
+    authors: Lingli Zhou, Shuxin Fan, Haining Lu, <strong>Wenqing Zhang</strong>, Kaoru Ri, Zhenhua Xu, Xiangrong Kong, Amir H. Kashani, Xialin Liu, Charles Eberhart, Wei Yi, Elia J. Duh
+    conference_short: IOVS
+    conference: Investigative Ophthalmology & Visual Science February 2025, Vol.66, 11. <strong>(IOVS)</strong>, 2025.
+    pdf: https://iovs.arvojournals.org/article.aspx?articleid=2802552
+    image: ./assets/img/iovs.png
+
+  - title: "Cost-Related Barriers to Medication Adherence in Uveitis Patients Enrolled in NIH's All of Us Program"
+    authors: Dave, Bhoomi; Ibanez Bruron, Maria Carolina; <strong>Zhang, Wenqing</strong>; Liberman, Paulina; Berkenstock, Meghan K. MD
+    conference_short: QMHC
+    conference: Quality Management in Health Care, March 12, 2025.
+    pdf: https://journals.lww.com/qmhcjournal/abstract/9900/cost_related_barriers_to_medication_adherence_in.119.aspx
+    image: ./assets/img/QMHC.png 
 
 #work_in_progress:
   - #title: "PD-L1-Stratified Outcomes with Neoadjuvant Immunotherapy in Non-Small Cell Lung Cancer: Individual Patient Data Reconstruction and Meta-Analysis"
