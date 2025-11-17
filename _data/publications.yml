@@ -12,7 +12,8 @@ main:
     authors: <strong>Wenqing Zhang</strong>, based on the work of Jiyang Wen, Chen Hu, Mei-Cheng Wang.
     conference_short: R Package
     image: ./assets/img/jointCompRisk.png
-    code: https://cran.r-project.org/web/packages/jointCompRisk/
+    pdf: https://cran.r-project.org/web/packages/jointCompRisk/
+    code: https://cran.r-project.org/web/packages/jointCompRisk/vignettes/Vignette.html
     notes: CRAN published , original work by Wen et al. published in Biometrics 2023
 
   - title: "Retinal and Choriocapillaris Thickness Changes in Spontaneously Diabetic Macaques"
