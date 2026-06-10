@@ -2,11 +2,11 @@ main:
   - title: "Large Language Models for Full-Text Methods Quality Assessment:
     A Case Study on Mediation Analysis Research"
     authors: <strong>Wenqing Zhang</strong>, Trang Nguyen, Elizabeth A. Stuart, Yiqun T. Chen
-    conference_short: arxiv
+    conference_short: JAMIA
     pdf: https://arxiv.org/abs/2510.10762
     code: https://github.com/yiqunchen/CausalJudge
     image: ./assets/img/mediation.png
-    notes: Manuscript Submitted, poster presented at ISU-NISS 2025,JHU DSAI 2025.
+    notes: Accepted by Journal of the American Medical Informatics Association
 
   - title: "R package jointCompRisk: Joint Inference for Competing Risks Data using Multiple Endpoints"
     authors: <strong>Wenqing Zhang</strong>, based on the work of Jiyang Wen, Chen Hu, Mei-Cheng Wang.
