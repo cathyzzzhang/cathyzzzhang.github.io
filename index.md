@@ -8,7 +8,7 @@ I am a first-year PhD student in Biostatistics at the [Columbia University Mailm
 
 I’m interested in developing, evaluating, and applying statistical methods that integrate data from (1) multiple endpoints, (2) cross-study/cross-source settings, and (3) multiple modalities to improve population health and well-being.
 
-Previously, I completed my BS at the [Johns Hopkins University](https://www.jhu.edu/) with a double major in Public Health and Environmental Science, and a minor in Applied Math and Statistics (May 2024). And I completed my ScM in Biostatistics at [Johns Hopkins University Bloomberg School of Public Health](https://publichealth.jhu.edu/), where I am fortunate to work under the guidance of [Dr. Chen Hu](https://profiles.hopkinsmedicine.org/provider/chen-hu/2777794) and [Dr. Yiqun T. Chen](https://yiqunchen.github.io/).
+Previously, I completed my BS at the [Johns Hopkins University](https://www.jhu.edu/) with a double major in Public Health and Environmental Science, and a minor in Applied Math and Statistics (May 2024). And I completed my ScM in Biostatistics at [Johns Hopkins University Bloomberg School of Public Health](https://publichealth.jhu.edu/) (May 2026), where I am fortunate to work under the guidance of [Dr. Chen Hu](https://profiles.hopkinsmedicine.org/provider/chen-hu/2777794) and [Dr. Yiqun T. Chen](https://yiqunchen.github.io/).
 
 I’m always happy to collaborate! If you’re interested in working together, feel free to reach out to me at wz2810[at]cumc.columbia.edu
 
