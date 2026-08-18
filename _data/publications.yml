@@ -3,10 +3,9 @@ main:
     A Case Study on Mediation Analysis Research"
     authors: <strong>Wenqing Zhang</strong>, Trang Nguyen, Elizabeth A. Stuart, Yiqun T. Chen
     conference_short: JAMIA
-    pdf: https://arxiv.org/abs/2510.10762
+    pdf: https://doi.org/10.1093/jamia/ocag108
     code: https://github.com/yiqunchen/CausalJudge
     image: ./assets/img/mediation.png
-    notes: Accepted by Journal of the American Medical Informatics Association
 
   - title: "R package jointCompRisk: Joint Inference for Competing Risks Data using Multiple Endpoints"
     authors: <strong>Wenqing Zhang</strong>, based on the work of Jiyang Wen, Chen Hu, Mei-Cheng Wang.
@@ -29,3 +28,10 @@ main:
     conference: Quality Management in Health Care, March 12, 2025.
     pdf: https://journals.lww.com/qmhcjournal/abstract/9900/cost_related_barriers_to_medication_adherence_in.119.aspx
     image: ./assets/img/QMHC.png 
+
+  - title: "Predictive Factors for Progression in Sickle Cell Retinopathy: Longitudinal Evaluation of a United States Cohort"
+    authors: Anshuman Agrawal*, Nur Cardakli*, <strong> Wenqing Zhang </strong>, Uduak E. Obot, Anupam K. Garg, Adrienne W. Scott
+    conference_short: AJO
+    conference: American Journal of Ophthalmology, July 20, 2026.
+    pdf: https://doi.org/10.1016/j.ajo.2026.07.026
+    image: ./assets/img/AJO.png
