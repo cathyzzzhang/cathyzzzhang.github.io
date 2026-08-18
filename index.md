@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student in Biostatistics at the [Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu/).
+I am an incoming first-year PhD student in Biostatistics at the [Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu/).
 
 I’m interested in developing, evaluating, and applying statistical methods that integrate data from (1) multiple endpoints, (2) cross-study/cross-source settings, and (3) multiple modalities to improve population health and well-being.
 
