@@ -1,13 +1,13 @@
 # Basic Information 
 title: Wenqing(Cathy) Zhang
-position: ScM Student
-affiliation: Department of Biostatistics, Johns Hopkins Bloomberg School of Public Health
-email: wzhan115@jhu.edu
+position: PhD Student
+affiliation: Department of Biostatistics, Columbia Mailman School of Public Health
+email: wz2810@cumc.columbia.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Wenqing Zhang, Cathy Zhang, Johns Hopkins University, Biostatistics, Johns Hopkins Bloomberg School of Public Health
-description: Wenqing (Cathy) Zhang - ScM Student in Biostatistics at Johns Hopkins University.
+keywords: Wenqing Zhang, Cathy Zhang, Johns Hopkins University, Biostatistics, Johns Hopkins Bloomberg School of Public Health, Columbia Mailman School of Public Health, Columbia University, Biostatistics PhD Student, Biostatistics Researcher, Biostatistics Research, Biostatistics Publications, Biostatistics Projects 
+description: Wenqing (Cathy) Zhang - ScM Student in Biostatistics at Johns Hopkins University, PhD Student in Biostatistics at Columbia University, and Researcher in Biostatistics. 
 canonical: https://cathyzzzhang.github.io/
 
 # Links 
@@ -19,8 +19,8 @@ linkedin: https://www.linkedin.com/in/wenqingzhang/
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/profile.JPG
-favicon: ./assets/img/john-hopkins.png
-favicon_dark: ./assets/img/john-hopkins.png
+favicon: ./assets/img/columbia.png
+favicon_dark: ./assets/img/columbia.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
